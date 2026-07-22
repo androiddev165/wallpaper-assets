@@ -1,0 +1,1274 @@
+{
+  "version": 1,
+  "wallpapers": [
+    {
+      "id": "gif_top_1",
+      "title": "Top 1",
+      "resourceName": "gif_top_1",
+      "fileName": "gif_top_1.gif",
+      "folder": "raw",
+      "isLive": true,
+      "category": "Live Wallpapers"
+    },
+    {
+      "id": "gif_top_2",
+      "title": "Top 2",
+      "resourceName": "gif_top_2",
+      "fileName": "gif_top_2.gif",
+      "folder": "raw",
+      "isLive": true,
+      "category": "Live Wallpapers"
+    },
+    {
+      "id": "gif_top_3",
+      "title": "Top 3",
+      "resourceName": "gif_top_3",
+      "fileName": "gif_top_3.gif",
+      "folder": "raw",
+      "isLive": true,
+      "category": "Live Wallpapers"
+    },
+    {
+      "id": "gif_top_4",
+      "title": "Top 4",
+      "resourceName": "gif_top_4",
+      "fileName": "gif_top_4.gif",
+      "folder": "raw",
+      "isLive": true,
+      "category": "Live Wallpapers"
+    },
+    {
+      "id": "gif_top_5",
+      "title": "Top 5",
+      "resourceName": "gif_top_5",
+      "fileName": "gif_top_5.gif",
+      "folder": "raw",
+      "isLive": true,
+      "category": "Live Wallpapers"
+    },
+    {
+      "id": "iv_gif_1",
+      "title": "1",
+      "resourceName": "iv_gif_1",
+      "fileName": "iv_gif_1.gif",
+      "folder": "raw",
+      "isLive": true,
+      "category": "Live Wallpapers"
+    },
+    {
+      "id": "iv_gif_2",
+      "title": "2",
+      "resourceName": "iv_gif_2",
+      "fileName": "iv_gif_2.gif",
+      "folder": "raw",
+      "isLive": true,
+      "category": "Live Wallpapers"
+    },
+    {
+      "id": "iv_gif_3",
+      "title": "3",
+      "resourceName": "iv_gif_3",
+      "fileName": "iv_gif_3.gif",
+      "folder": "raw",
+      "isLive": true,
+      "category": "Live Wallpapers"
+    },
+    {
+      "id": "iv_gif_4",
+      "title": "4",
+      "resourceName": "iv_gif_4",
+      "fileName": "iv_gif_4.gif",
+      "folder": "raw",
+      "isLive": true,
+      "category": "Live Wallpapers"
+    },
+    {
+      "id": "iv_gif_5",
+      "title": "5",
+      "resourceName": "iv_gif_5",
+      "fileName": "iv_gif_5.gif",
+      "folder": "raw",
+      "isLive": true,
+      "category": "Live Wallpapers"
+    },
+    {
+      "id": "iv_gif_6",
+      "title": "6",
+      "resourceName": "iv_gif_6",
+      "fileName": "iv_gif_6.gif",
+      "folder": "raw",
+      "isLive": true,
+      "category": "Live Wallpapers"
+    },
+    {
+      "id": "iv_gif_7",
+      "title": "7",
+      "resourceName": "iv_gif_7",
+      "fileName": "iv_gif_7.gif",
+      "folder": "raw",
+      "isLive": true,
+      "category": "Live Wallpapers"
+    },
+    {
+      "id": "iv_gif_8",
+      "title": "8",
+      "resourceName": "iv_gif_8",
+      "fileName": "iv_gif_8.gif",
+      "folder": "raw",
+      "isLive": true,
+      "category": "Live Wallpapers"
+    },
+    {
+      "id": "iv_wallpaper_amoled_1",
+      "title": "Amoled 1",
+      "resourceName": "iv_wallpaper_amoled_1",
+      "fileName": "iv_wallpaper_amoled_1.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Amoled"
+    },
+    {
+      "id": "iv_wallpaper_amoled_10",
+      "title": "Amoled 10",
+      "resourceName": "iv_wallpaper_amoled_10",
+      "fileName": "iv_wallpaper_amoled_10.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Amoled"
+    },
+    {
+      "id": "iv_wallpaper_amoled_11",
+      "title": "Amoled 11",
+      "resourceName": "iv_wallpaper_amoled_11",
+      "fileName": "iv_wallpaper_amoled_11.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Amoled"
+    },
+    {
+      "id": "iv_wallpaper_amoled_12",
+      "title": "Amoled 12",
+      "resourceName": "iv_wallpaper_amoled_12",
+      "fileName": "iv_wallpaper_amoled_12.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Amoled"
+    },
+    {
+      "id": "iv_wallpaper_amoled_2",
+      "title": "Amoled 2",
+      "resourceName": "iv_wallpaper_amoled_2",
+      "fileName": "iv_wallpaper_amoled_2.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Amoled"
+    },
+    {
+      "id": "iv_wallpaper_amoled_3",
+      "title": "Amoled 3",
+      "resourceName": "iv_wallpaper_amoled_3",
+      "fileName": "iv_wallpaper_amoled_3.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Amoled"
+    },
+    {
+      "id": "iv_wallpaper_amoled_4",
+      "title": "Amoled 4",
+      "resourceName": "iv_wallpaper_amoled_4",
+      "fileName": "iv_wallpaper_amoled_4.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Amoled"
+    },
+    {
+      "id": "iv_wallpaper_amoled_5",
+      "title": "Amoled 5",
+      "resourceName": "iv_wallpaper_amoled_5",
+      "fileName": "iv_wallpaper_amoled_5.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Amoled"
+    },
+    {
+      "id": "iv_wallpaper_amoled_6",
+      "title": "Amoled 6",
+      "resourceName": "iv_wallpaper_amoled_6",
+      "fileName": "iv_wallpaper_amoled_6.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Amoled"
+    },
+    {
+      "id": "iv_wallpaper_amoled_7",
+      "title": "Amoled 7",
+      "resourceName": "iv_wallpaper_amoled_7",
+      "fileName": "iv_wallpaper_amoled_7.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Amoled"
+    },
+    {
+      "id": "iv_wallpaper_amoled_8",
+      "title": "Amoled 8",
+      "resourceName": "iv_wallpaper_amoled_8",
+      "fileName": "iv_wallpaper_amoled_8.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Amoled"
+    },
+    {
+      "id": "iv_wallpaper_amoled_9",
+      "title": "Amoled 9",
+      "resourceName": "iv_wallpaper_amoled_9",
+      "fileName": "iv_wallpaper_amoled_9.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Amoled"
+    },
+    {
+      "id": "iv_wallpaper_anime_1",
+      "title": "Anime 1",
+      "resourceName": "iv_wallpaper_anime_1",
+      "fileName": "iv_wallpaper_anime_1.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Anime"
+    },
+    {
+      "id": "iv_wallpaper_anime_10",
+      "title": "Anime 10",
+      "resourceName": "iv_wallpaper_anime_10",
+      "fileName": "iv_wallpaper_anime_10.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Anime"
+    },
+    {
+      "id": "iv_wallpaper_anime_11",
+      "title": "Anime 11",
+      "resourceName": "iv_wallpaper_anime_11",
+      "fileName": "iv_wallpaper_anime_11.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Anime"
+    },
+    {
+      "id": "iv_wallpaper_anime_12",
+      "title": "Anime 12",
+      "resourceName": "iv_wallpaper_anime_12",
+      "fileName": "iv_wallpaper_anime_12.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Anime"
+    },
+    {
+      "id": "iv_wallpaper_anime_13",
+      "title": "Anime 13",
+      "resourceName": "iv_wallpaper_anime_13",
+      "fileName": "iv_wallpaper_anime_13.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Anime"
+    },
+    {
+      "id": "iv_wallpaper_anime_2",
+      "title": "Anime 2",
+      "resourceName": "iv_wallpaper_anime_2",
+      "fileName": "iv_wallpaper_anime_2.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Anime"
+    },
+    {
+      "id": "iv_wallpaper_anime_3",
+      "title": "Anime 3",
+      "resourceName": "iv_wallpaper_anime_3",
+      "fileName": "iv_wallpaper_anime_3.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Anime"
+    },
+    {
+      "id": "iv_wallpaper_anime_4",
+      "title": "Anime 4",
+      "resourceName": "iv_wallpaper_anime_4",
+      "fileName": "iv_wallpaper_anime_4.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Anime"
+    },
+    {
+      "id": "iv_wallpaper_anime_5",
+      "title": "Anime 5",
+      "resourceName": "iv_wallpaper_anime_5",
+      "fileName": "iv_wallpaper_anime_5.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Anime"
+    },
+    {
+      "id": "iv_wallpaper_anime_6",
+      "title": "Anime 6",
+      "resourceName": "iv_wallpaper_anime_6",
+      "fileName": "iv_wallpaper_anime_6.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Anime"
+    },
+    {
+      "id": "iv_wallpaper_anime_7",
+      "title": "Anime 7",
+      "resourceName": "iv_wallpaper_anime_7",
+      "fileName": "iv_wallpaper_anime_7.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Anime"
+    },
+    {
+      "id": "iv_wallpaper_anime_8",
+      "title": "Anime 8",
+      "resourceName": "iv_wallpaper_anime_8",
+      "fileName": "iv_wallpaper_anime_8.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Anime"
+    },
+    {
+      "id": "iv_wallpaper_anime_9",
+      "title": "Anime 9",
+      "resourceName": "iv_wallpaper_anime_9",
+      "fileName": "iv_wallpaper_anime_9.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Anime"
+    },
+    {
+      "id": "iv_wallpaper_funky_1",
+      "title": "Funky 1",
+      "resourceName": "iv_wallpaper_funky_1",
+      "fileName": "iv_wallpaper_funky_1.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Funky"
+    },
+    {
+      "id": "iv_wallpaper_funky_10",
+      "title": "Funky 10",
+      "resourceName": "iv_wallpaper_funky_10",
+      "fileName": "iv_wallpaper_funky_10.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Funky"
+    },
+    {
+      "id": "iv_wallpaper_funky_11",
+      "title": "Funky 11",
+      "resourceName": "iv_wallpaper_funky_11",
+      "fileName": "iv_wallpaper_funky_11.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Funky"
+    },
+    {
+      "id": "iv_wallpaper_funky_12",
+      "title": "Funky 12",
+      "resourceName": "iv_wallpaper_funky_12",
+      "fileName": "iv_wallpaper_funky_12.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Funky"
+    },
+    {
+      "id": "iv_wallpaper_funky_13",
+      "title": "Funky 13",
+      "resourceName": "iv_wallpaper_funky_13",
+      "fileName": "iv_wallpaper_funky_13.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Funky"
+    },
+    {
+      "id": "iv_wallpaper_funky_14",
+      "title": "Funky 14",
+      "resourceName": "iv_wallpaper_funky_14",
+      "fileName": "iv_wallpaper_funky_14.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Funky"
+    },
+    {
+      "id": "iv_wallpaper_funky_15",
+      "title": "Funky 15",
+      "resourceName": "iv_wallpaper_funky_15",
+      "fileName": "iv_wallpaper_funky_15.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Funky"
+    },
+    {
+      "id": "iv_wallpaper_funky_2",
+      "title": "Funky 2",
+      "resourceName": "iv_wallpaper_funky_2",
+      "fileName": "iv_wallpaper_funky_2.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Funky"
+    },
+    {
+      "id": "iv_wallpaper_funky_3",
+      "title": "Funky 3",
+      "resourceName": "iv_wallpaper_funky_3",
+      "fileName": "iv_wallpaper_funky_3.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Funky"
+    },
+    {
+      "id": "iv_wallpaper_funky_4",
+      "title": "Funky 4",
+      "resourceName": "iv_wallpaper_funky_4",
+      "fileName": "iv_wallpaper_funky_4.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Funky"
+    },
+    {
+      "id": "iv_wallpaper_funky_5",
+      "title": "Funky 5",
+      "resourceName": "iv_wallpaper_funky_5",
+      "fileName": "iv_wallpaper_funky_5.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Funky"
+    },
+    {
+      "id": "iv_wallpaper_funky_6",
+      "title": "Funky 6",
+      "resourceName": "iv_wallpaper_funky_6",
+      "fileName": "iv_wallpaper_funky_6.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Funky"
+    },
+    {
+      "id": "iv_wallpaper_funky_7",
+      "title": "Funky 7",
+      "resourceName": "iv_wallpaper_funky_7",
+      "fileName": "iv_wallpaper_funky_7.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Funky"
+    },
+    {
+      "id": "iv_wallpaper_funky_8",
+      "title": "Funky 8",
+      "resourceName": "iv_wallpaper_funky_8",
+      "fileName": "iv_wallpaper_funky_8.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Funky"
+    },
+    {
+      "id": "iv_wallpaper_funky_9",
+      "title": "Funky 9",
+      "resourceName": "iv_wallpaper_funky_9",
+      "fileName": "iv_wallpaper_funky_9.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Funky"
+    },
+    {
+      "id": "iv_wallpaper_joker_1",
+      "title": "Joker 1",
+      "resourceName": "iv_wallpaper_joker_1",
+      "fileName": "iv_wallpaper_joker_1.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Joker"
+    },
+    {
+      "id": "iv_wallpaper_joker_10",
+      "title": "Joker 10",
+      "resourceName": "iv_wallpaper_joker_10",
+      "fileName": "iv_wallpaper_joker_10.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Joker"
+    },
+    {
+      "id": "iv_wallpaper_joker_11",
+      "title": "Joker 11",
+      "resourceName": "iv_wallpaper_joker_11",
+      "fileName": "iv_wallpaper_joker_11.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Joker"
+    },
+    {
+      "id": "iv_wallpaper_joker_12",
+      "title": "Joker 12",
+      "resourceName": "iv_wallpaper_joker_12",
+      "fileName": "iv_wallpaper_joker_12.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Joker"
+    },
+    {
+      "id": "iv_wallpaper_joker_13",
+      "title": "Joker 13",
+      "resourceName": "iv_wallpaper_joker_13",
+      "fileName": "iv_wallpaper_joker_13.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Joker"
+    },
+    {
+      "id": "iv_wallpaper_joker_14",
+      "title": "Joker 14",
+      "resourceName": "iv_wallpaper_joker_14",
+      "fileName": "iv_wallpaper_joker_14.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Joker"
+    },
+    {
+      "id": "iv_wallpaper_joker_2",
+      "title": "Joker 2",
+      "resourceName": "iv_wallpaper_joker_2",
+      "fileName": "iv_wallpaper_joker_2.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Joker"
+    },
+    {
+      "id": "iv_wallpaper_joker_3",
+      "title": "Joker 3",
+      "resourceName": "iv_wallpaper_joker_3",
+      "fileName": "iv_wallpaper_joker_3.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Joker"
+    },
+    {
+      "id": "iv_wallpaper_joker_4",
+      "title": "Joker 4",
+      "resourceName": "iv_wallpaper_joker_4",
+      "fileName": "iv_wallpaper_joker_4.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Joker"
+    },
+    {
+      "id": "iv_wallpaper_joker_5",
+      "title": "Joker 5",
+      "resourceName": "iv_wallpaper_joker_5",
+      "fileName": "iv_wallpaper_joker_5.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Joker"
+    },
+    {
+      "id": "iv_wallpaper_joker_6",
+      "title": "Joker 6",
+      "resourceName": "iv_wallpaper_joker_6",
+      "fileName": "iv_wallpaper_joker_6.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Joker"
+    },
+    {
+      "id": "iv_wallpaper_joker_7",
+      "title": "Joker 7",
+      "resourceName": "iv_wallpaper_joker_7",
+      "fileName": "iv_wallpaper_joker_7.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Joker"
+    },
+    {
+      "id": "iv_wallpaper_joker_8",
+      "title": "Joker 8",
+      "resourceName": "iv_wallpaper_joker_8",
+      "fileName": "iv_wallpaper_joker_8.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Joker"
+    },
+    {
+      "id": "iv_wallpaper_joker_9",
+      "title": "Joker 9",
+      "resourceName": "iv_wallpaper_joker_9",
+      "fileName": "iv_wallpaper_joker_9.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Joker"
+    },
+    {
+      "id": "iv_wallpaper_monster_fun_1",
+      "title": "Monster Fun 1",
+      "resourceName": "iv_wallpaper_monster_fun_1",
+      "fileName": "iv_wallpaper_monster_fun_1.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Monster Fun"
+    },
+    {
+      "id": "iv_wallpaper_monster_fun_10",
+      "title": "Monster Fun 10",
+      "resourceName": "iv_wallpaper_monster_fun_10",
+      "fileName": "iv_wallpaper_monster_fun_10.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Monster Fun"
+    },
+    {
+      "id": "iv_wallpaper_monster_fun_11",
+      "title": "Monster Fun 11",
+      "resourceName": "iv_wallpaper_monster_fun_11",
+      "fileName": "iv_wallpaper_monster_fun_11.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Monster Fun"
+    },
+    {
+      "id": "iv_wallpaper_monster_fun_12",
+      "title": "Monster Fun 12",
+      "resourceName": "iv_wallpaper_monster_fun_12",
+      "fileName": "iv_wallpaper_monster_fun_12.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Monster Fun"
+    },
+    {
+      "id": "iv_wallpaper_monster_fun_2",
+      "title": "Monster Fun 2",
+      "resourceName": "iv_wallpaper_monster_fun_2",
+      "fileName": "iv_wallpaper_monster_fun_2.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Monster Fun"
+    },
+    {
+      "id": "iv_wallpaper_monster_fun_3",
+      "title": "Monster Fun 3",
+      "resourceName": "iv_wallpaper_monster_fun_3",
+      "fileName": "iv_wallpaper_monster_fun_3.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Monster Fun"
+    },
+    {
+      "id": "iv_wallpaper_monster_fun_4",
+      "title": "Monster Fun 4",
+      "resourceName": "iv_wallpaper_monster_fun_4",
+      "fileName": "iv_wallpaper_monster_fun_4.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Monster Fun"
+    },
+    {
+      "id": "iv_wallpaper_monster_fun_5",
+      "title": "Monster Fun 5",
+      "resourceName": "iv_wallpaper_monster_fun_5",
+      "fileName": "iv_wallpaper_monster_fun_5.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Monster Fun"
+    },
+    {
+      "id": "iv_wallpaper_monster_fun_6",
+      "title": "Monster Fun 6",
+      "resourceName": "iv_wallpaper_monster_fun_6",
+      "fileName": "iv_wallpaper_monster_fun_6.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Monster Fun"
+    },
+    {
+      "id": "iv_wallpaper_monster_fun_7",
+      "title": "Monster Fun 7",
+      "resourceName": "iv_wallpaper_monster_fun_7",
+      "fileName": "iv_wallpaper_monster_fun_7.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Monster Fun"
+    },
+    {
+      "id": "iv_wallpaper_monster_fun_8",
+      "title": "Monster Fun 8",
+      "resourceName": "iv_wallpaper_monster_fun_8",
+      "fileName": "iv_wallpaper_monster_fun_8.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Monster Fun"
+    },
+    {
+      "id": "iv_wallpaper_monster_fun_9",
+      "title": "Monster Fun 9",
+      "resourceName": "iv_wallpaper_monster_fun_9",
+      "fileName": "iv_wallpaper_monster_fun_9.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Monster Fun"
+    },
+    {
+      "id": "iv_wallpaper_nature_1",
+      "title": "Nature 1",
+      "resourceName": "iv_wallpaper_nature_1",
+      "fileName": "iv_wallpaper_nature_1.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Nature"
+    },
+    {
+      "id": "iv_wallpaper_nature_10",
+      "title": "Nature 10",
+      "resourceName": "iv_wallpaper_nature_10",
+      "fileName": "iv_wallpaper_nature_10.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Nature"
+    },
+    {
+      "id": "iv_wallpaper_nature_11",
+      "title": "Nature 11",
+      "resourceName": "iv_wallpaper_nature_11",
+      "fileName": "iv_wallpaper_nature_11.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Nature"
+    },
+    {
+      "id": "iv_wallpaper_nature_2",
+      "title": "Nature 2",
+      "resourceName": "iv_wallpaper_nature_2",
+      "fileName": "iv_wallpaper_nature_2.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Nature"
+    },
+    {
+      "id": "iv_wallpaper_nature_3",
+      "title": "Nature 3",
+      "resourceName": "iv_wallpaper_nature_3",
+      "fileName": "iv_wallpaper_nature_3.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Nature"
+    },
+    {
+      "id": "iv_wallpaper_nature_4",
+      "title": "Nature 4",
+      "resourceName": "iv_wallpaper_nature_4",
+      "fileName": "iv_wallpaper_nature_4.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Nature"
+    },
+    {
+      "id": "iv_wallpaper_nature_5",
+      "title": "Nature 5",
+      "resourceName": "iv_wallpaper_nature_5",
+      "fileName": "iv_wallpaper_nature_5.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Nature"
+    },
+    {
+      "id": "iv_wallpaper_nature_6",
+      "title": "Nature 6",
+      "resourceName": "iv_wallpaper_nature_6",
+      "fileName": "iv_wallpaper_nature_6.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Nature"
+    },
+    {
+      "id": "iv_wallpaper_nature_7",
+      "title": "Nature 7",
+      "resourceName": "iv_wallpaper_nature_7",
+      "fileName": "iv_wallpaper_nature_7.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Nature"
+    },
+    {
+      "id": "iv_wallpaper_nature_8",
+      "title": "Nature 8",
+      "resourceName": "iv_wallpaper_nature_8",
+      "fileName": "iv_wallpaper_nature_8.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Nature"
+    },
+    {
+      "id": "iv_wallpaper_nature_9",
+      "title": "Nature 9",
+      "resourceName": "iv_wallpaper_nature_9",
+      "fileName": "iv_wallpaper_nature_9.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Nature"
+    },
+    {
+      "id": "iv_wallpaper_neon_animal_1",
+      "title": "Neon Animal 1",
+      "resourceName": "iv_wallpaper_neon_animal_1",
+      "fileName": "iv_wallpaper_neon_animal_1.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Neon Animal"
+    },
+    {
+      "id": "iv_wallpaper_neon_animal_10",
+      "title": "Neon Animal 10",
+      "resourceName": "iv_wallpaper_neon_animal_10",
+      "fileName": "iv_wallpaper_neon_animal_10.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Neon Animal"
+    },
+    {
+      "id": "iv_wallpaper_neon_animal_11",
+      "title": "Neon Animal 11",
+      "resourceName": "iv_wallpaper_neon_animal_11",
+      "fileName": "iv_wallpaper_neon_animal_11.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Neon Animal"
+    },
+    {
+      "id": "iv_wallpaper_neon_animal_12",
+      "title": "Neon Animal 12",
+      "resourceName": "iv_wallpaper_neon_animal_12",
+      "fileName": "iv_wallpaper_neon_animal_12.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Neon Animal"
+    },
+    {
+      "id": "iv_wallpaper_neon_animal_2",
+      "title": "Neon Animal 2",
+      "resourceName": "iv_wallpaper_neon_animal_2",
+      "fileName": "iv_wallpaper_neon_animal_2.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Neon Animal"
+    },
+    {
+      "id": "iv_wallpaper_neon_animal_3",
+      "title": "Neon Animal 3",
+      "resourceName": "iv_wallpaper_neon_animal_3",
+      "fileName": "iv_wallpaper_neon_animal_3.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Neon Animal"
+    },
+    {
+      "id": "iv_wallpaper_neon_animal_4",
+      "title": "Neon Animal 4",
+      "resourceName": "iv_wallpaper_neon_animal_4",
+      "fileName": "iv_wallpaper_neon_animal_4.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Neon Animal"
+    },
+    {
+      "id": "iv_wallpaper_neon_animal_5",
+      "title": "Neon Animal 5",
+      "resourceName": "iv_wallpaper_neon_animal_5",
+      "fileName": "iv_wallpaper_neon_animal_5.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Neon Animal"
+    },
+    {
+      "id": "iv_wallpaper_neon_animal_6",
+      "title": "Neon Animal 6",
+      "resourceName": "iv_wallpaper_neon_animal_6",
+      "fileName": "iv_wallpaper_neon_animal_6.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Neon Animal"
+    },
+    {
+      "id": "iv_wallpaper_neon_animal_7",
+      "title": "Neon Animal 7",
+      "resourceName": "iv_wallpaper_neon_animal_7",
+      "fileName": "iv_wallpaper_neon_animal_7.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Neon Animal"
+    },
+    {
+      "id": "iv_wallpaper_neon_animal_8",
+      "title": "Neon Animal 8",
+      "resourceName": "iv_wallpaper_neon_animal_8",
+      "fileName": "iv_wallpaper_neon_animal_8.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Neon Animal"
+    },
+    {
+      "id": "iv_wallpaper_neon_animal_9",
+      "title": "Neon Animal 9",
+      "resourceName": "iv_wallpaper_neon_animal_9",
+      "fileName": "iv_wallpaper_neon_animal_9.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Neon Animal"
+    },
+    {
+      "id": "iv_wallpaper_neon_car_1",
+      "title": "Neon Car 1",
+      "resourceName": "iv_wallpaper_neon_car_1",
+      "fileName": "iv_wallpaper_neon_car_1.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Neon Car"
+    },
+    {
+      "id": "iv_wallpaper_neon_car_10",
+      "title": "Neon Car 10",
+      "resourceName": "iv_wallpaper_neon_car_10",
+      "fileName": "iv_wallpaper_neon_car_10.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Neon Car"
+    },
+    {
+      "id": "iv_wallpaper_neon_car_11",
+      "title": "Neon Car 11",
+      "resourceName": "iv_wallpaper_neon_car_11",
+      "fileName": "iv_wallpaper_neon_car_11.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Neon Car"
+    },
+    {
+      "id": "iv_wallpaper_neon_car_12",
+      "title": "Neon Car 12",
+      "resourceName": "iv_wallpaper_neon_car_12",
+      "fileName": "iv_wallpaper_neon_car_12.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Neon Car"
+    },
+    {
+      "id": "iv_wallpaper_neon_car_2",
+      "title": "Neon Car 2",
+      "resourceName": "iv_wallpaper_neon_car_2",
+      "fileName": "iv_wallpaper_neon_car_2.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Neon Car"
+    },
+    {
+      "id": "iv_wallpaper_neon_car_3",
+      "title": "Neon Car 3",
+      "resourceName": "iv_wallpaper_neon_car_3",
+      "fileName": "iv_wallpaper_neon_car_3.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Neon Car"
+    },
+    {
+      "id": "iv_wallpaper_neon_car_4",
+      "title": "Neon Car 4",
+      "resourceName": "iv_wallpaper_neon_car_4",
+      "fileName": "iv_wallpaper_neon_car_4.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Neon Car"
+    },
+    {
+      "id": "iv_wallpaper_neon_car_5",
+      "title": "Neon Car 5",
+      "resourceName": "iv_wallpaper_neon_car_5",
+      "fileName": "iv_wallpaper_neon_car_5.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Neon Car"
+    },
+    {
+      "id": "iv_wallpaper_neon_car_6",
+      "title": "Neon Car 6",
+      "resourceName": "iv_wallpaper_neon_car_6",
+      "fileName": "iv_wallpaper_neon_car_6.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Neon Car"
+    },
+    {
+      "id": "iv_wallpaper_neon_car_7",
+      "title": "Neon Car 7",
+      "resourceName": "iv_wallpaper_neon_car_7",
+      "fileName": "iv_wallpaper_neon_car_7.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Neon Car"
+    },
+    {
+      "id": "iv_wallpaper_neon_car_8",
+      "title": "Neon Car 8",
+      "resourceName": "iv_wallpaper_neon_car_8",
+      "fileName": "iv_wallpaper_neon_car_8.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Neon Car"
+    },
+    {
+      "id": "iv_wallpaper_neon_car_9",
+      "title": "Neon Car 9",
+      "resourceName": "iv_wallpaper_neon_car_9",
+      "fileName": "iv_wallpaper_neon_car_9.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Neon Car"
+    },
+    {
+      "id": "iv_wallpaper_silly_smile_1",
+      "title": "Silly Smile 1",
+      "resourceName": "iv_wallpaper_silly_smile_1",
+      "fileName": "iv_wallpaper_silly_smile_1.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Silly Smile"
+    },
+    {
+      "id": "iv_wallpaper_silly_smile_10",
+      "title": "Silly Smile 10",
+      "resourceName": "iv_wallpaper_silly_smile_10",
+      "fileName": "iv_wallpaper_silly_smile_10.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Silly Smile"
+    },
+    {
+      "id": "iv_wallpaper_silly_smile_11",
+      "title": "Silly Smile 11",
+      "resourceName": "iv_wallpaper_silly_smile_11",
+      "fileName": "iv_wallpaper_silly_smile_11.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Silly Smile"
+    },
+    {
+      "id": "iv_wallpaper_silly_smile_12",
+      "title": "Silly Smile 12",
+      "resourceName": "iv_wallpaper_silly_smile_12",
+      "fileName": "iv_wallpaper_silly_smile_12.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Silly Smile"
+    },
+    {
+      "id": "iv_wallpaper_silly_smile_13",
+      "title": "Silly Smile 13",
+      "resourceName": "iv_wallpaper_silly_smile_13",
+      "fileName": "iv_wallpaper_silly_smile_13.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Silly Smile"
+    },
+    {
+      "id": "iv_wallpaper_silly_smile_2",
+      "title": "Silly Smile 2",
+      "resourceName": "iv_wallpaper_silly_smile_2",
+      "fileName": "iv_wallpaper_silly_smile_2.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Silly Smile"
+    },
+    {
+      "id": "iv_wallpaper_silly_smile_3",
+      "title": "Silly Smile 3",
+      "resourceName": "iv_wallpaper_silly_smile_3",
+      "fileName": "iv_wallpaper_silly_smile_3.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Silly Smile"
+    },
+    {
+      "id": "iv_wallpaper_silly_smile_4",
+      "title": "Silly Smile 4",
+      "resourceName": "iv_wallpaper_silly_smile_4",
+      "fileName": "iv_wallpaper_silly_smile_4.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Silly Smile"
+    },
+    {
+      "id": "iv_wallpaper_silly_smile_5",
+      "title": "Silly Smile 5",
+      "resourceName": "iv_wallpaper_silly_smile_5",
+      "fileName": "iv_wallpaper_silly_smile_5.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Silly Smile"
+    },
+    {
+      "id": "iv_wallpaper_silly_smile_6",
+      "title": "Silly Smile 6",
+      "resourceName": "iv_wallpaper_silly_smile_6",
+      "fileName": "iv_wallpaper_silly_smile_6.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Silly Smile"
+    },
+    {
+      "id": "iv_wallpaper_silly_smile_7",
+      "title": "Silly Smile 7",
+      "resourceName": "iv_wallpaper_silly_smile_7",
+      "fileName": "iv_wallpaper_silly_smile_7.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Silly Smile"
+    },
+    {
+      "id": "iv_wallpaper_silly_smile_8",
+      "title": "Silly Smile 8",
+      "resourceName": "iv_wallpaper_silly_smile_8",
+      "fileName": "iv_wallpaper_silly_smile_8.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Silly Smile"
+    },
+    {
+      "id": "iv_wallpaper_silly_smile_9",
+      "title": "Silly Smile 9",
+      "resourceName": "iv_wallpaper_silly_smile_9",
+      "fileName": "iv_wallpaper_silly_smile_9.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Silly Smile"
+    },
+    {
+      "id": "iv_wallpaper_trending_1",
+      "title": "Trending 1",
+      "resourceName": "iv_wallpaper_trending_1",
+      "fileName": "iv_wallpaper_trending_1.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Trending"
+    },
+    {
+      "id": "iv_wallpaper_trending_10",
+      "title": "Trending 10",
+      "resourceName": "iv_wallpaper_trending_10",
+      "fileName": "iv_wallpaper_trending_10.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Trending"
+    },
+    {
+      "id": "iv_wallpaper_trending_11",
+      "title": "Trending 11",
+      "resourceName": "iv_wallpaper_trending_11",
+      "fileName": "iv_wallpaper_trending_11.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Trending"
+    },
+    {
+      "id": "iv_wallpaper_trending_12",
+      "title": "Trending 12",
+      "resourceName": "iv_wallpaper_trending_12",
+      "fileName": "iv_wallpaper_trending_12.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Trending"
+    },
+    {
+      "id": "iv_wallpaper_trending_13",
+      "title": "Trending 13",
+      "resourceName": "iv_wallpaper_trending_13",
+      "fileName": "iv_wallpaper_trending_13.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Trending"
+    },
+    {
+      "id": "iv_wallpaper_trending_14",
+      "title": "Trending 14",
+      "resourceName": "iv_wallpaper_trending_14",
+      "fileName": "iv_wallpaper_trending_14.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Trending"
+    },
+    {
+      "id": "iv_wallpaper_trending_2",
+      "title": "Trending 2",
+      "resourceName": "iv_wallpaper_trending_2",
+      "fileName": "iv_wallpaper_trending_2.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Trending"
+    },
+    {
+      "id": "iv_wallpaper_trending_3",
+      "title": "Trending 3",
+      "resourceName": "iv_wallpaper_trending_3",
+      "fileName": "iv_wallpaper_trending_3.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Trending"
+    },
+    {
+      "id": "iv_wallpaper_trending_4",
+      "title": "Trending 4",
+      "resourceName": "iv_wallpaper_trending_4",
+      "fileName": "iv_wallpaper_trending_4.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Trending"
+    },
+    {
+      "id": "iv_wallpaper_trending_5",
+      "title": "Trending 5",
+      "resourceName": "iv_wallpaper_trending_5",
+      "fileName": "iv_wallpaper_trending_5.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Trending"
+    },
+    {
+      "id": "iv_wallpaper_trending_6",
+      "title": "Trending 6",
+      "resourceName": "iv_wallpaper_trending_6",
+      "fileName": "iv_wallpaper_trending_6.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Trending"
+    },
+    {
+      "id": "iv_wallpaper_trending_7",
+      "title": "Trending 7",
+      "resourceName": "iv_wallpaper_trending_7",
+      "fileName": "iv_wallpaper_trending_7.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Trending"
+    },
+    {
+      "id": "iv_wallpaper_trending_8",
+      "title": "Trending 8",
+      "resourceName": "iv_wallpaper_trending_8",
+      "fileName": "iv_wallpaper_trending_8.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Trending"
+    },
+    {
+      "id": "iv_wallpaper_trending_9",
+      "title": "Trending 9",
+      "resourceName": "iv_wallpaper_trending_9",
+      "fileName": "iv_wallpaper_trending_9.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Trending"
+    }
+  ]
+}
