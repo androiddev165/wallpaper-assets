@@ -47,15 +47,6 @@
       "category": "Live Wallpapers"
     },
     {
-      "id": "iv_gif_2",
-      "title": "2",
-      "resourceName": "iv_gif_2",
-      "fileName": "iv_gif_2.gif",
-      "folder": "raw",
-      "isLive": true,
-      "category": "Live Wallpapers"
-    },
-    {
       "id": "iv_gif_3",
       "title": "3",
       "resourceName": "iv_gif_3",
@@ -65,28 +56,10 @@
       "category": "Live Wallpapers"
     },
     {
-      "id": "iv_gif_4",
-      "title": "4",
-      "resourceName": "iv_gif_4",
-      "fileName": "iv_gif_4.gif",
-      "folder": "raw",
-      "isLive": true,
-      "category": "Live Wallpapers"
-    },
-    {
       "id": "iv_gif_5",
       "title": "5",
       "resourceName": "iv_gif_5",
       "fileName": "iv_gif_5.gif",
-      "folder": "raw",
-      "isLive": true,
-      "category": "Live Wallpapers"
-    },
-    {
-      "id": "iv_gif_6",
-      "title": "6",
-      "resourceName": "iv_gif_6",
-      "fileName": "iv_gif_6.gif",
       "folder": "raw",
       "isLive": true,
       "category": "Live Wallpapers"
@@ -105,6 +78,16 @@
       "title": "8",
       "resourceName": "iv_gif_8",
       "fileName": "iv_gif_8.gif",
+      "folder": "raw",
+      "isLive": true,
+      "category": "Live Wallpapers"
+    },
+    
+    {
+      "id": "iv_gif_9",
+      "title": "9",
+      "resourceName": "iv_gif_9",
+      "fileName": "iv_gif_9.gif",
       "folder": "raw",
       "isLive": true,
       "category": "Live Wallpapers"
