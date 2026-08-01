@@ -1243,6 +1243,125 @@
       "folder": "drawable",
       "isLive": false,
       "category": "Trending"
+    },    
+    {
+      "id": "iv_wallpaper_abstract_1",
+      "title": "Abstract Art 1",
+      "resourceName": "iv_wallpaper_abstract_1",
+      "fileName": "iv_wallpaper_abstract_1.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Abstract Art"
+    },
+    
+    {
+      "id": "iv_wallpaper_abstract_2",
+      "title": "Abstract Art 2",
+      "resourceName": "iv_wallpaper_abstract_2",
+      "fileName": "iv_wallpaper_abstract_2.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Abstract Art"
+    },
+    
+    {
+      "id": "iv_wallpaper_abstract_3",
+      "title": "Abstract Art 3",
+      "resourceName": "iv_wallpaper_abstract_3",
+      "fileName": "iv_wallpaper_abstract_3.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Abstract Art"
+    },
+    
+    {
+      "id": "iv_wallpaper_abstract_4",
+      "title": "Abstract Art 4",
+      "resourceName": "iv_wallpaper_abstract_4",
+      "fileName": "iv_wallpaper_abstract_4.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Abstract Art"
+    },
+    
+    {
+      "id": "iv_wallpaper_abstract_5",
+      "title": "Abstract Art 5",
+      "resourceName": "iv_wallpaper_abstract_5",
+      "fileName": "iv_wallpaper_abstract_5.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Abstract Art"
+    },
+    
+    {
+      "id": "iv_wallpaper_abstract_6",
+      "title": "Abstract Art 6",
+      "resourceName": "iv_wallpaper_abstract_6",
+      "fileName": "iv_wallpaper_abstract_6.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Abstract Art"
+    },
+    
+    {
+      "id": "iv_wallpaper_abstract_7",
+      "title": "Abstract Art 7",
+      "resourceName": "iv_wallpaper_abstract_7",
+      "fileName": "iv_wallpaper_abstract_7.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Abstract Art"
+    },
+    
+    {
+      "id": "iv_wallpaper_abstract_8",
+      "title": "Abstract Art 8",
+      "resourceName": "iv_wallpaper_abstract_8",
+      "fileName": "iv_wallpaper_abstract_9.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Abstract Art"
+    },
+    
+    {
+      "id": "iv_wallpaper_abstract_9",
+      "title": "Abstract Art 9",
+      "resourceName": "iv_wallpaper_abstract_9",
+      "fileName": "iv_wallpaper_abstract_9.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Abstract Art"
+    },
+    
+    {
+      "id": "iv_wallpaper_abstract_10",
+      "title": "Abstract Art 10",
+      "resourceName": "iv_wallpaper_abstract_10",
+      "fileName": "iv_wallpaper_abstract_10.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Abstract Art"
+    },
+    
+    {
+      "id": "iv_wallpaper_abstract_11",
+      "title": "Abstract Art 11",
+      "resourceName": "iv_wallpaper_abstract_11",
+      "fileName": "iv_wallpaper_abstract_11.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Abstract Art"
+    },
+    
+    {
+      "id": "iv_wallpaper_abstract_12",
+      "title": "Abstract Art 12",
+      "resourceName": "iv_wallpaper_abstract_12",
+      "fileName": "iv_wallpaper_abstract_12.webp",
+      "folder": "drawable",
+      "isLive": false,
+      "category": "Abstract Art"
     }
   ]
 }
